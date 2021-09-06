@@ -1,0 +1,2 @@
+# Hangman
+ * create a bank of secret words (at least 20) for the user to try to guess, one  * letter at a time. The user should be presented with something that shows them  * how many letters are in the word. If they guess correctly, the letter should  * then show up in the appropriate place. They should have a limited number of  * wrong guesses allowed before they lose (a picture is welcome, but can be  * tricky). Duplicate guesses should be dismissed
